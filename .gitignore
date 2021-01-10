@@ -1,1 +1,3 @@
-ulauncher/ext_preferences/
+applications/ulauncher/ext_preferences/
+node_modules/
+.vscode/
