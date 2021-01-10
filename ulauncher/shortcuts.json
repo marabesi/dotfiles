@@ -1,0 +1,82 @@
+{
+    "9df6311c-2297-432e-b3bc-3663e1f459c3": {
+        "id": "9df6311c-2297-432e-b3bc-3663e1f459c3",
+        "name": "Google Search",
+        "keyword": "g",
+        "cmd": "https://google.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/google-search-icon.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1608476000.0137541
+    },
+    "8928c302-aaef-413e-9b2b-652a24308dd4": {
+        "id": "8928c302-aaef-413e-9b2b-652a24308dd4",
+        "name": "Stack Overflow",
+        "keyword": "so",
+        "cmd": "http://stackoverflow.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/stackoverflow-icon.svg",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1608476000.0138361
+    },
+    "020d1b40-1efb-40d4-a18a-64c9576a5a20": {
+        "id": "020d1b40-1efb-40d4-a18a-64c9576a5a20",
+        "name": "Wikipedia",
+        "keyword": "wiki",
+        "cmd": "https://en.wikipedia.org/wiki/%s",
+        "icon": "/usr/share/ulauncher/media/wikipedia-icon.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1608476000.0138903
+    },
+    "bc25db42-3875-4b51-8c9c-8156bc1ce9f2": {
+        "id": "bc25db42-3875-4b51-8c9c-8156bc1ce9f2",
+        "name": "youtube",
+        "keyword": "yt",
+        "cmd": "https://www.youtube.com/results?search_query=%s",
+        "icon": null,
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1608477061.4632971
+    },
+    "15d2468b-f878-4049-9d06-3de74c3e937b": {
+        "id": "15d2468b-f878-4049-9d06-3de74c3e937b",
+        "name": "spanish to english",
+        "keyword": "es:en",
+        "cmd": "https://translate.google.com/?sl=es&tl=en&text=%s&op=translate",
+        "icon": null,
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1608478538.4776232
+    },
+    "931098b0-83a0-457c-9188-8daed8bdb85b": {
+        "id": "931098b0-83a0-457c-9188-8daed8bdb85b",
+        "name": "english to spanish",
+        "keyword": "en:es",
+        "cmd": "https://translate.google.com/?sl=en&tl=es&text=%s&op=translate",
+        "icon": null,
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1608478604.5490918
+    },
+    "06b6fdee-91aa-45cb-b2f3-2970507e8bce": {
+        "id": "06b6fdee-91aa-45cb-b2f3-2970507e8bce",
+        "name": "screenshot to folder",
+        "keyword": "ssf",
+        "cmd": "gnome-screenshot -w",
+        "icon": null,
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1610280214.229001
+    },
+    "2e9f5d32-ba84-4fd1-a1ab-0ea64099c552": {
+        "id": "2e9f5d32-ba84-4fd1-a1ab-0ea64099c552",
+        "name": "screenshot to clipboard",
+        "keyword": "ssc",
+        "cmd": "gnome-screenshot -w -c",
+        "icon": null,
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1610280268.6295016
+    }
+}

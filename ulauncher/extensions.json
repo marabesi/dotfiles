@@ -1,0 +1,65 @@
+{
+    "com.github.iboyperson.ulauncher-system": {
+        "id": "com.github.iboyperson.ulauncher-system",
+        "url": "https://github.com/iboyperson/ulauncher-system",
+        "updated_at": "2020-12-20T15:55:13.510765",
+        "last_commit": "9268d22afd93748821164e12f806b049533fc873",
+        "last_commit_time": "2020-12-08T21:03:45"
+    },
+    "com.github.merrickluo.ulauncher-windows-switcher": {
+        "id": "com.github.merrickluo.ulauncher-windows-switcher",
+        "url": "https://github.com/merrickluo/ulauncher-windows-switcher",
+        "updated_at": "2020-12-20T15:58:32.373582",
+        "last_commit": "ae4727e8c94f4d9fd70df52087491261ff08b0e7",
+        "last_commit_time": "2020-02-05T06:42:44"
+    },
+    "com.github.doekeb.ulauncher-gnome-calculator": {
+        "id": "com.github.doekeb.ulauncher-gnome-calculator",
+        "url": "https://github.com/Doekeb/ulauncher-gnome-calculator",
+        "updated_at": "2020-12-20T16:08:10.657653",
+        "last_commit": "365e40e17cc8bbc75dfa28cb7cdd023e46bebd8b",
+        "last_commit_time": "2020-12-12T18:58:36"
+    },
+    "com.github.ulauncher.ulauncher-emoji": {
+        "id": "com.github.ulauncher.ulauncher-emoji",
+        "url": "https://github.com/Ulauncher/ulauncher-emoji",
+        "updated_at": "2020-12-20T16:13:08.205443",
+        "last_commit": "d56b2c8106ab5fbc87b55f608a3bd75db23f2904",
+        "last_commit_time": "2020-10-03T19:10:03"
+    },
+    "com.github.pwnyprod.ulauncher-ipcopy": {
+        "id": "com.github.pwnyprod.ulauncher-ipcopy",
+        "url": "https://github.com/pwnyprod/ulauncher-ipcopy",
+        "updated_at": "2020-12-20T20:05:53.409679",
+        "last_commit": "cb9dccda390d2c4d1299148491c65c177066ad14",
+        "last_commit_time": "2020-01-19T13:42:10"
+    },
+    "com.github.fisadev.ulauncher-better-file-browser": {
+        "id": "com.github.fisadev.ulauncher-better-file-browser",
+        "url": "https://github.com/fisadev/ulauncher-better-file-browser",
+        "updated_at": "2021-01-10T12:11:37.007480",
+        "last_commit": "8ec8a0dda09e172de62051cd1f251816ce4af368",
+        "last_commit_time": "2019-09-06T19:20:09"
+    },
+    "com.github.brpaz.ulauncher-devdocs": {
+        "id": "com.github.brpaz.ulauncher-devdocs",
+        "url": "https://github.com/brpaz/ulauncher-devdocs",
+        "updated_at": "2021-01-10T12:15:56.531884",
+        "last_commit": "4dd8476d68dfa8c4c68a0e31fbcbec8b2ad769d1",
+        "last_commit_time": "2019-12-03T20:00:41"
+    },
+    "com.github.friday.ulauncher-gnome-settings": {
+        "id": "com.github.friday.ulauncher-gnome-settings",
+        "url": "https://github.com/friday/ulauncher-gnome-settings",
+        "updated_at": "2021-01-10T12:18:42.163710",
+        "last_commit": "12281ba540740ed3f47cf1d49bcfc506ea78fbd1",
+        "last_commit_time": "2019-05-09T21:44:58"
+    },
+    "com.github.glovecc.ulauncher-github-search": {
+        "id": "com.github.glovecc.ulauncher-github-search",
+        "url": "https://github.com/Glovecc/ulauncher-github-search",
+        "updated_at": "2021-01-10T13:23:25.562025",
+        "last_commit": "14b102191ce1a9ca4c2e67fbcc6b1269333df50e",
+        "last_commit_time": "2020-02-12T09:49:45"
+    }
+}
