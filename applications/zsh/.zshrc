@@ -106,6 +106,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias hh="cd ~/Projects"
+alias dcd="docker-compose -f docker-compose-dev.yml"
+alias dcp="docker-compose -f docker-compose-deploy.yml"
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
