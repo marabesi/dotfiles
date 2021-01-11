@@ -11,6 +11,9 @@ fi
 # Path to your oh-my-zsh installation.
 export ZSH="/home/marabesi/.oh-my-zsh"
 
+# Custom varibles based on plugins
+ZSH_TMUX_AUTOSTART=true
+
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
@@ -76,7 +79,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-autosuggestions docker docker-compose autoenv zsh-syntax-highlighting)
+plugins=(git zsh-autosuggestions docker docker-compose autoenv zsh-syntax-highlighting tmux)
 
 source $ZSH/oh-my-zsh.sh
 
