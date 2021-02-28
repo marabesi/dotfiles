@@ -1,4 +1,4 @@
-const proxy = require('proxyquire')
+const proxy = require('proxyquire').noPreserveCache()
 const chai = require('chai')
 const spies = require('chai-spies')
 

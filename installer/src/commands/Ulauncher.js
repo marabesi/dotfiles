@@ -1,8 +1,14 @@
 class Ulaucher {
+  #title;
   #description;
 
   constructor() {
-    this.#description = 'ulauncher for gnome'
+    this.#title = 'ulauncher for gnome'
+    this.#description = 'Improves your productivity through keyboard and ulauncher extension'
+  }
+
+  get title() {
+    return this.#title
   }
 
   get description() {
