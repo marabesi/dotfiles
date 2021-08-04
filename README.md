@@ -10,3 +10,9 @@ This repo holds my personal apps, that I use for development.
 - jetbrains toolbox
 - nvim
 - nvm
+
+## User story
+
+As an developer,
+I want to have my most used tools, to be placed in a linux environment automatically
+So I can start to develop my apps earlier
