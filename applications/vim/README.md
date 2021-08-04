@@ -17,3 +17,9 @@ sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.
 mkdir ~/.vim/colors && \
 wget https://raw.githubusercontent.com/raphamorim/lucario/master/colors/lucario.vim -O ~/.vim/colors/lucario.vim
 ``
+
+## [Linking .vimrc to vim.init](https://wiki.archlinux.org/title/Neovim)
+
+``
+ln -s ~/.vimrc ~/.config/nvim/init.vim
+``
