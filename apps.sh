@@ -94,3 +94,13 @@ nvm install 16
 
 nvm alias default 16
 
+## tmux
+
+sudo apt install -y tmux
+
+current=$(pwd)
+cd
+git clone https://github.com/gpakosz/.tmux.git
+ln -s -f .tmux/.tmux.conf
+cp .tmux/.tmux.conf.local .
+cd $current
