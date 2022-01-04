@@ -111,3 +111,11 @@ wget https://downloads.slack-edge.com/releases/linux/4.23.0/prod/x64/slack-deskt
 (sudo dpkg -i slack-desktop-4.23.0-amd64.deb || true)
 sudo apt-get install -f
 rm slack-desktop-4.23.0-amd64.deb
+
+## surfshark
+
+wget https://ocean.surfshark.com/debian/pool/main/s/surfshark-release/surfshark-release_1.0.0-2_amd64.deb
+sudo dpkg -i surfshark-release_1.0.0-2_amd64.deb
+rm surfshark-release_1.0.0-2_amd64.deb
+sudo apt-get update -y
+sudo apt-get install surfshark-vpn -y
