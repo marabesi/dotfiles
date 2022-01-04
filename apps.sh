@@ -24,6 +24,10 @@ sudo apt-get install -y neovim
 
 sudo add-apt-repository -y ppa:agornostal/ulauncher && sudo apt update -y && sudo apt install -y ulauncher
 
+wget https://raw.githubusercontent.com/marabesi/dotfiles/master/applications/ulauncher/shortcuts.json -O ~/.config/ulauncher/shortcuts.json
+wget https://raw.githubusercontent.com/marabesi/dotfiles/master/applications/ulauncher/settings.json -O ~/.config/ulauncher/settings.json
+wget https://raw.githubusercontent.com/marabesi/dotfiles/master/applications/ulauncher/extensions.json -O ~/.config/ulauncher/extensions.json
+
 ## oh myzsh
 
 sudo apt-get install -y zsh && sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
