@@ -94,6 +94,17 @@ nvm install 16
 
 nvm alias default 16
 
+## tmux
+
+sudo apt install -y tmux
+
+current=$(pwd)
+cd
+git clone https://github.com/gpakosz/.tmux.git
+ln -s -f .tmux/.tmux.conf
+cp .tmux/.tmux.conf.local .
+cd $current
+
 ## slack
 
 wget https://downloads.slack-edge.com/releases/linux/4.23.0/prod/x64/slack-desktop-4.23.0-amd64.deb
