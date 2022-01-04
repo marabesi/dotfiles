@@ -94,3 +94,9 @@ nvm install 16
 
 nvm alias default 16
 
+## slack
+
+wget https://downloads.slack-edge.com/releases/linux/4.23.0/prod/x64/slack-desktop-4.23.0-amd64.deb
+(sudo dpkg -i slack-desktop-4.23.0-amd64.deb || true)
+sudo apt-get install -f
+rm slack-desktop-4.23.0-amd64.deb
