@@ -31,6 +31,7 @@ wget https://raw.githubusercontent.com/marabesi/dotfiles/master/applications/ula
 ## oh myzsh
 
 sudo apt-get install -y zsh && sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+zsh
 
 ## vscode
 
@@ -123,3 +124,9 @@ sudo dpkg -i surfshark-release_1.0.0-2_amd64.deb
 rm surfshark-release_1.0.0-2_amd64.deb
 sudo apt-get update -y
 sudo apt-get install surfshark-vpn -y
+
+
+## java
+
+curl -s "https://get.sdkman.io" | bash
+source "$HOME/.sdkman/bin/sdkman-init.sh"
