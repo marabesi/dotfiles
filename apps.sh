@@ -142,3 +142,7 @@ rm download\?dl=packages%2Fubuntu%2Fdropbox_2020.03.04_amd64.deb
 ## virtual box
 
 sudo apt-get -y install virtualbox
+
+## audacity
+
+sudo apt-get install -y audacity
