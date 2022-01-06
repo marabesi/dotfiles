@@ -138,3 +138,7 @@ wget https://www.dropbox.com/download\?dl\=packages/ubuntu/dropbox_2020.03.04_am
 (sudo dpkg -i download\?dl=packages%2Fubuntu%2Fdropbox_2020.03.04_amd64.deb || true)
 sudo apt install -f -y
 rm download\?dl=packages%2Fubuntu%2Fdropbox_2020.03.04_amd64.deb
+
+## virtual box
+
+sudo apt-get -y install virtualbox
