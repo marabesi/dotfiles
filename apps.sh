@@ -146,3 +146,8 @@ sudo apt-get -y install virtualbox
 ## audacity
 
 sudo apt-get install -y audacity
+
+
+## vlc
+
+sudo apt-get install -y vlc
