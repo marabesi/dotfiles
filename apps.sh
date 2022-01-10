@@ -160,3 +160,4 @@ sudo apt-get install gimp -y
 ## snap
 
 sudo apt install snapd -y
+sudo snap install json-tool
