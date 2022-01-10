@@ -151,3 +151,12 @@ sudo apt-get install -y audacity
 ## vlc
 
 sudo apt-get install -y vlc
+
+
+## gimp
+
+sudo apt-get install gimp -y
+
+## snap
+
+sudo apt install snapd -y
