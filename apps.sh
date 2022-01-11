@@ -161,3 +161,7 @@ sudo apt-get install gimp -y
 
 sudo apt install snapd -y
 sudo snap install json-tool
+
+## zoom
+
+flatpak install flathub us.zoom.Zoom
