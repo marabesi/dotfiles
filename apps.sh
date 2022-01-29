@@ -163,5 +163,13 @@ sudo apt install snapd -y
 sudo snap install json-tool
 
 ## zoom
-
+## double-check other way of using zoom - flatpak version is buggy
 flatpak install flathub us.zoom.Zoom
+
+## nerd-fonts
+sudo apt-get install git -y
+git clone https://github.com/ryanoasis/nerd-fonts.git
+cd nerd-fonts/
+./install.sh
+cd ../
+rm -rf nerd-fonts/
