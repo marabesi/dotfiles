@@ -28,6 +28,11 @@ wget https://raw.githubusercontent.com/marabesi/dotfiles/master/applications/ula
 wget https://raw.githubusercontent.com/marabesi/dotfiles/master/applications/ulauncher/settings.json -O ~/.config/ulauncher/settings.json
 wget https://raw.githubusercontent.com/marabesi/dotfiles/master/applications/ulauncher/extensions.json -O ~/.config/ulauncher/extensions.json
 
+### ulauncher theme (https://docs.ulauncher.io/en/latest/themes/themes.html)
+
+# https://draculatheme.com/ulauncher
+git clone https://github.com/dracula/ulauncher.git ~/.config/ulauncher/user-themes/dracula-ulauncher
+
 ## oh myzsh
 
 sudo apt-get install -y zsh && sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
