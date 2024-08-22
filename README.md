@@ -16,3 +16,7 @@ This repo holds my personal apps, that I use for development.
 As an developer,
 I want to have my most used tools, to be placed in a linux environment automatically
 So I can start to develop my apps earlier
+
+## Better ways of doing what this repo does
+
+- https://github.com/NixOS/nixpkgs
